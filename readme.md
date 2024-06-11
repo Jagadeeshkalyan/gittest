@@ -1,2 +1,2 @@
 git for learning
-git is VCS
+git is a version control system
